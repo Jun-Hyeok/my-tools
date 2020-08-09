@@ -1,0 +1,1 @@
+tree /f | out-file tree.log -encoding utf8

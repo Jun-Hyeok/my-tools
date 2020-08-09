@@ -1,0 +1,1 @@
+ls -name | out-file filenames.log -encoding utf8

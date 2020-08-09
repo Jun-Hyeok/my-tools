@@ -1,0 +1,1 @@
+(get-childItem $pwd -recurse).fullname | out-file fullpaths.log -encoding utf8
