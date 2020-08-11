@@ -1,1 +1,1 @@
-powershell -noprofile -executionpolicy bypass -file ls.ps1
+powershell -noprofile -executionpolicy bypass -file getTree.ps1
